@@ -36,7 +36,7 @@ mi-backend/
 ### 1. Clona el repositorio
 
 ```bash
-git clone https://github.com/tu-usuario/tu-repo.git
+git clone https://github.com/JacuXx/servidor-mongo-express.git
 cd tu-repo
 ```
 
